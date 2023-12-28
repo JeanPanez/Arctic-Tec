@@ -29,9 +29,9 @@ header {
   justify-content: center;
 }
 
-/* .logo-container img {
+ .logo-container img {
   height: 100%;
-} */
+} 
 
 .header-content .navigation-list {
   display: flex;
